@@ -1,0 +1,17 @@
+
+>>>>>>>>>>>>>>> Emperor-Team.org <<<<<<<<<<<<<<<<<<<<
+
+~root
+~M@rAz Ali
+
+
+
+gcc -pthread em.c -o emperor -lcrypt
+
+./emperor
+
+
+Tnx : MR.PERSIA / MoHaMaD Vaker / Alireza_Promis
+
+
+emperor-team.org 
